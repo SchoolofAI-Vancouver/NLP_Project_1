@@ -18,6 +18,8 @@ All code is written in Python. Please use [this guide](http://nbviewer.jupyter.o
 
 [Part 1 Slides](https://docs.google.com/presentation/d/1Ev9j97B5wAbpmsF372urt9M4kZefSX0bfnQwqJQtf0w/edit?usp=sharing)
 
+[Slides Code Chunks](https://colab.research.google.com/drive/1Q1INlDVaYBnMxrSUYaDrc6cJdqyTXrgI)
+
 ## Resources
 
 The project uses data from Kaggle's [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). The data can be found [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data).
